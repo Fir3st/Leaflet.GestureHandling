@@ -1,6 +1,6 @@
 /*
 * * Leaflet Gesture Handling **
-* * Version 1.1.9
+* * Version 1.2.2
 */
 import LanguageContent from "./language-content";
 
